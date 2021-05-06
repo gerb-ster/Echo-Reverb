@@ -1,3 +1,3 @@
-# Project Name
+# Echo/Reverb
 
-some description about this project goes here.
+Next, another effect module. I bought a bunch of PT2399 IC’s from China so I made his Echo/Reverb unit. It’s basically a clone of the Echo unit from Synthrotek.
